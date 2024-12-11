@@ -2,5 +2,6 @@
 - 👋 Hi, I’m Kiran Bele
 - 👀 I am looking for Data Engineer, Data Scientist, and Machine Leanring Engineering Roles in USA. 
 - 🎓 I pursued my Master's in Business Analytics from University of Massachusetts, Amherst, United States. Originally from India.
-- 💞️ I’d love to collaborate on real-world data-related solutions for engineering challenges. 
+- 💞️ I’d love to collaborate on real-world data-related solutions for engineering challenges.
+- Here's a look at my public tableau profile for some visualization projects : https://public.tableau.com/app/profile/kiran.bele/vizzes
 - 📫 You can reach me at kiranbele.1110@gmail.com or send me a connection request at https://www.linkedin.com/in/kiran-bele/
