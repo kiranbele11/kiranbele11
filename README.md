@@ -9,8 +9,8 @@ I am a passionate professional with expertise in **Data Science**,**Decision Sci
 ## 📊 **Check Out My Work**
 🎨 [**Tableau Public Profile**](https://public.tableau.com/app/profile/kiran.bele/vizzes)  
 Explore my visualization projects showcasing insights from real-world datasets.
-💼 **LinkedIn**: [Kiran Bele](https://www.linkedin.com/in/kiran-bele/) 
-📧 **Email**: [kiranbele.1110@gmail.com](mailto:kiranbele.1110@gmail.com)  
+- 💼 **LinkedIn**: [Kiran Bele](https://www.linkedin.com/in/kiran-bele/) 
+- 📧 **Email**: [kiranbele.1110@gmail.com](mailto:kiranbele.1110@gmail.com)  
 
 ## 🔍 **What I’m Looking For**  
 💼 Opportunities in:
