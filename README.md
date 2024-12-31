@@ -1,32 +1,7 @@
 
 # 👋 Hi, I'm Kiran Bele!
-
-🌟 **About Me**  
-🎓 **Master's Graduate in Business Analytics**  
-University of Massachusetts, Amherst, USA
-I am a passionate professional with expertise in **Data Science**,**Decision Science**,**Data Engineering**, and **Machine Learning Engineering**. Originally from India, I have honed my skills in the United States, and I am actively seeking roles where I can leverage my analytical and engineering abilities to solve real-world problems.
-
-## 📊 **Check Out My Work**
-🎨 [**Tableau Public Profile**](https://public.tableau.com/app/profile/kiran.bele/vizzes)  
-Explore my visualization projects showcasing insights from real-world datasets.
-- 💼 **LinkedIn**: [Kiran Bele](https://www.linkedin.com/in/kiran-bele/) 
-- 📧 **Email**: [kiranbele.1110@gmail.com](mailto:kiranbele.1110@gmail.com)  
-
-## 🔍 **What I’m Looking For**  
-💼 Opportunities in:
-- **Decision Science**
-- **Data Science**
-- **Data Engineering**
-- **Machine Learning Engineering**
-
-I thrive on building robust data pipelines, creating predictive models, and engineering solutions for complex data challenges.
-
-## 🔧 **Technical Skills**
-- **Programming**: Python (Pandas, NumPy, Scikit-Learn), SQL, R
-- **Data Engineering**: Apache Spark, AWS Redshift, Databricks, Snowflake
-- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Tools**: Git, Docker, Jupyter, Apache Airflow
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud Platforms**: AWS (S3, Lambda, Redshift), GCP (BigQuery)
-
-Thank you for visiting my profile! Feel free to reach out or collaborate on exciting data-related projects! 🚀
+- 3 years of experience in IT consulting as application development analyst.
+- Gained confidence and recognition from initiating and delivering an automation project for purchase order processing saving over 15 hours of manual work per week.
+- Master's in Business Analytics from UMass Amherst.
+- Building projects almost every day to maintain high learning rate and build intuition of new technologies.
+- 🎨 [**Tableau Public Profile**](https://public.tableau.com/app/profile/kiran.bele/vizzes)  
